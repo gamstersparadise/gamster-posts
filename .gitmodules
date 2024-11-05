@@ -1,0 +1,13 @@
+[submodule "gamsterposts/themes/themes/PaperMod"]
+	path = gamsterposts/themes/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "gamsterposts/themes/PaperMod"]
+	path = gamsterposts/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "gamsterposts/public"]
+	path = gamsterposts/public
+	url = git@github.com:gamstersparadise/gamsterposts.github.io.git
+	branch = main
+[submodule "gamsterposts/themes/typo"]
+	path = gamsterposts/themes/typo
+	url = https://github.com/tomfran/typo.git
